@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ajay%20Moturi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moturi%20Ajay Prasad&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+Backend+Engineer;React+%7C+HTML+%7C+CSS+%7C+JavaScript+Frontend+Dev;SQL+%7C+PostgreSQL+%7C+Database+Architect;Exploring+AI+Tools+%26+LLM+Integrations+%F0%9F%A4%96" alt="Typing SVG" />
 
