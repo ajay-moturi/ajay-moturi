@@ -1,4 +1,5 @@
 👋MOTURI AJAY PRASAD
+👋MOTURI AJAY PRASAD
 
 <div align="center">
 
@@ -26,16 +27,16 @@
 ```java
 public class AjayMoturi extends Developer {
 
-    String name        = "Ajay Moturi";
-    String degree      = "B.E. Computer Science Engineering (2024)";
-    String role        = "Full Stack Developer | Java Backend Engineer";
+    String name        = "Moturi Ajay Prasad";
+    String degree      = "B.Tech Computer Science Engineering (2024)";
+    String role        = "Full Stack Developer | Java Backend Engineer" | Ai Engineer;
     String location    = "Hyderabad, India";
 
     String[] frontend  = {"HTML5", "CSS3", "JavaScript", "React.js"};
     String[] backend   = {"Core Java", "Advanced Java", "Spring Boot", "Microservices"};
     String[] database  = {"SQL", "MySQL", "PostgreSQL"};
-    String[] ai        = {"ChatGPT API", "Gemini AI", "LangChain4j", "OpenAI API", "Hugging Face"};
-    String[] cloud     = {"AWS", "Docker", "Git", "GitHub", "Linux"};
+    String[] ai        = {"ChatGPT API", "Gemini AI", "OpenAI API",};
+    String[] cloud     = {"AWS", "Docker", "Git", "GitHub",};
 
     String currentFocus = "Building AI-integrated Java microservices and React apps";
     String funFact      = "I debug with coffee and fix with persistence";
@@ -83,8 +84,6 @@ public class AjayMoturi extends Developer {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
 </div>
 
 ---
@@ -98,9 +97,6 @@ public class AjayMoturi extends Developer {
 ![ChatGPT](https://img.shields.io/badge/ChatGPT_API-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 ![AI REST APIs](https://img.shields.io/badge/AI_REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
@@ -179,4 +175,11 @@ public class AjayMoturi extends Developer {
 
 ⭐ If you find my work useful, drop a star — it means a lot! ⭐
 </div>
+
+
+
+
+
+
+
 
