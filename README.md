@@ -1,5 +1,4 @@
 👋MOTURI AJAY PRASAD
-👋MOTURI AJAY PRASAD
 
 <div align="center">
 
@@ -175,10 +174,6 @@ public class AjayMoturi extends Developer {
 
 ⭐ If you find my work useful, drop a star — it means a lot! ⭐
 </div>
-
-
-
-
 
 
 
