@@ -131,11 +131,9 @@ public class AjayMoturi extends Developer {
 </p>
 
 ---
-
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajay-moturi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajay-moturi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
